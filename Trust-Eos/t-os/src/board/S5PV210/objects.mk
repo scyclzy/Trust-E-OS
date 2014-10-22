@@ -1,1 +1,0 @@
-board-objs-y += s5pv210_uart.o
