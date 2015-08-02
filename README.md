@@ -11,17 +11,17 @@ Statement:
 
 Design by University of Electronic Science and Technology of China of Embedded Real Time Computing Laboratory.
 
-Contact Info:xyang@uestc.edu.cn
+Contact Info:
 
 See file License to project for more details. (http://www.gnu.org/licenses/gpl-2.0.html)
 
-See file Trust-Eosï¼Œit describe in detail the basic information and design criteria of the project.
+See file Trust-Eos,it describe in detail the basic information and design criteria of the project.
 
 See file Content List,it introduces in detail the contents and functions of each folder of the project file.
 
 ============================================================================================================
 
-Version informationï¼š
+Version information£º
 ====================
 
 Platform: S5PV210
@@ -36,9 +36,9 @@ Cross_Compile: arm-2009q3
 
 Android NDK:android-ndk-r9c-linux
 
-Programming Toolï¼šDNW
+Programming Tool£ºDNW
 
-Contributionsï¼š
+Contributions£º
 ==============
 
 GitHub has some great articles on how to get started with Git and GitHub (http://help.github.com/) and how to fork a project (http://help.github.com/forking/).
@@ -47,17 +47,17 @@ Contributers are recommended to fork the app on GitHub (but don't have too). Cre
 
 All code that is contributed  must be compliant with GPLv2 (http://www.gnu.org/licenses/gpl-2.0.html).
 
-Stabilityï¼š
+Stability£º
 ==========
 
 Yes it is. In our testing of the system, the performance is stable.In as much as possible to completely test,we found no problems, but we do not make any guarantee.
 
-Interestï¼š
+Interest£º
 =========
 
 ARM TrustZone technology for safety promotion as well as the mobile terminal has been greatly improved, our goal is to build as safe as possible, shield the external application brings potential risk to provide more safe and credible services.If you expressed interest for this project, we will be very willing to communicate.
 
-Summaryï¼š
+Summary£º
 ========
 
 Trusted Embedded Operating System is just our initial version and define it as Trust-E OS v1.0, then our operating system will have richer service more comprehensive features will be added.
