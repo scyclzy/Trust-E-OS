@@ -21,7 +21,7 @@ See file Content List,it introduces in detail the contents and functions of each
 
 ============================================================================================================
 
-Version information£º
+Version information:
 ====================
 
 Platform: S5PV210
@@ -36,9 +36,9 @@ Cross_Compile: arm-2009q3
 
 Android NDK:android-ndk-r9c-linux
 
-Programming Tool£ºDNW
+Programming Tool:DNW
 
-Contributions£º
+Contributions:
 ==============
 
 GitHub has some great articles on how to get started with Git and GitHub (http://help.github.com/) and how to fork a project (http://help.github.com/forking/).
@@ -47,17 +47,17 @@ Contributers are recommended to fork the app on GitHub (but don't have too). Cre
 
 All code that is contributed  must be compliant with GPLv2 (http://www.gnu.org/licenses/gpl-2.0.html).
 
-Stability£º
+Stability:
 ==========
 
 Yes it is. In our testing of the system, the performance is stable.In as much as possible to completely test,we found no problems, but we do not make any guarantee.
 
-Interest£º
+Interest:
 =========
 
 ARM TrustZone technology for safety promotion as well as the mobile terminal has been greatly improved, our goal is to build as safe as possible, shield the external application brings potential risk to provide more safe and credible services.If you expressed interest for this project, we will be very willing to communicate.
 
-Summary£º
+Summary:
 ========
 
 Trusted Embedded Operating System is just our initial version and define it as Trust-E OS v1.0, then our operating system will have richer service more comprehensive features will be added.
