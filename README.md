@@ -11,8 +11,6 @@ Statement:
 
 Design by University of Electronic Science and Technology of China of Embedded Real Time Computing Laboratory.
 
-Contact Info:
-
 See file License to project for more details. (http://www.gnu.org/licenses/gpl-2.0.html)
 
 See file Trust-Eos,it describe in detail the basic information and design criteria of the project.
