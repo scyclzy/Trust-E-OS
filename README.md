@@ -9,7 +9,6 @@ Statement:
 
 (C) Copyright 2014  
 
-Design by University of Electronic Science and Technology of China of Embedded Real Time Computing Laboratory.
 
 See file License to project for more details. (http://www.gnu.org/licenses/gpl-2.0.html)
 
